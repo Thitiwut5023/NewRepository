@@ -1,1 +1,2 @@
 the text is new file
+update lab2
